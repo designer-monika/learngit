@@ -25,3 +25,13 @@ step9: git push origin master
 
 step 10: refresh the page :-)
 
+
+---------------
+
+useful command:
+
+1) Remove Folder:
+   git rm -r foldername
+
+2) close commit editor
+	:wq -> press senter
