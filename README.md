@@ -33,5 +33,5 @@ useful command:
 1) Remove Folder:
 	git rm -r foldername
 
-2) close commit editor:
+2) Close commit editor:
 	wq -> press senter
